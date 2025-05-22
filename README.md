@@ -16,7 +16,7 @@
 
 ## 💡 Why This Project?
 
-Managing tasks shouldn't be a hassle — this app combines a powerful backend with a straightforward frontend to keep your productivity flow uninterrupted. Perfect for learning full-stack development or building a solid foundation for your personal projects.
+Managing tasks shouldn't be a hassle — this app combines a powerful backend with a straightforward frontend to keep your productivity flow uninterrupted. Perfect for learning full-stack development or building a solid foundation for my personal  projects.
 
 ---
 
